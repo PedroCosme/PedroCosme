@@ -15,11 +15,12 @@
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">&nbsp;
   <img width=50px src="https://rustacean.net/assets/rustacean-flat-happy.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png">&nbsp;
   <img width=50px src="https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png">&nbsp;
-  <img width=50px src="https://toppng.com/uploads/preview/linux-logo-png-linux-tux-black-white-115628885292kgc8ongco.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/800px-NewTux.svg.png">&nbsp;
 </div>
 
 </br>
