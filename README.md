@@ -19,7 +19,7 @@
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png">&nbsp;
   <img width=50px src="https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
+  <img width=50px src="https://toppng.com/uploads/preview/linux-logo-png-download-1166029841002oh4vqp9b.png">&nbsp;
 </div>
 
 </br>
